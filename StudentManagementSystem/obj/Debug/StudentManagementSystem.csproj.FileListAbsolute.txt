@@ -1,0 +1,121 @@
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.Cache
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentForm.resources
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.StaffForm.resources
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.TutorForm.resources
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\Interop.ADOX.dll
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.ResolveComReference.cache
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.manifest
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.application
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe.manifest
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.application
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.manifest
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.application
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\Interop.ADOX.dll
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.ResolveComReference.cache
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.StaffForm.resources
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentForm.resources
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.TutorForm.resources
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe.manifest
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.application
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+F:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+G:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.manifest
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.application
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\Interop.ADOX.dll
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.ResolveComReference.cache
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.StaffForm.resources
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentForm.resources
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.TutorForm.resources
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe.manifest
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.application
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+E:\APU\IOOP (Introduction to Object Oriented Language)\repo\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.manifest
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.application
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\Interop.ADOX.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.ResolveComReference.cache
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.StaffForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.TutorForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe.manifest
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.application
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.manifest
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.application
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\Interop.ADOX.dll
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.ResolveComReference.cache
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.StaffForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.TutorForm.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe.manifest
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.application
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+G:\APU\2019 S2\Introduction to Object Oriented Programming (IOOP)\Assignment\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb

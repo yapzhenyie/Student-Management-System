@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentManagementSystem.Classes.Course">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAABCQAAAQAAgAQAAIAAABAgAACIAEAAAEBEBhAA=</HashCode>
+      <FileName>Classes\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.Payment" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAEQIAgIAAAIAAAAAACAAAAAAAAAgAAhAA=</HashCode>
+      <FileName>Classes\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.Profile" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAQAAAAAAAAAAAAAAAQAABAAAAAgAQBAQ=</HashCode>
+      <FileName>Classes\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.Receipt" Collapsed="true">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAIAAEAMAAAAAGIACAAAACAEAAAAAAAQAgAEA=</HashCode>
+      <FileName>Classes\Receipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.Staff" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAACAAAACgCAAAgAwAAAIUAAACAAAAAgAAAAA=</HashCode>
+      <FileName>Classes\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.Student" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAKEIaAAACgAFCCgCAAAgAyIAAIUAACCAAAAACAChEA=</HashCode>
+      <FileName>Classes\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.Timetable" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAQAgACAAoAAgAAABAAAAEQAAhAA=</HashCode>
+      <FileName>Classes\Timetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.Tutor" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAACAAAACgCAAAgAwAABIUAAACABAAEAAAgAA=</HashCode>
+      <FileName>Classes\Tutor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagementSystem.Classes.User" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACACQAgAAECAAABAAACgQAAAgAAAAA=</HashCode>
+      <FileName>Classes\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
